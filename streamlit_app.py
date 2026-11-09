@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 
 # 여기서부터 자유롭게 작성하세요
-import streamlit as st
-import pandas as pd
 
 # 페이지 설정
 st.set_page_config(
